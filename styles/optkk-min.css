@@ -1,0 +1,18 @@
+/* CSS1k Entry "opttk" by zard */
+*{border:0;padding:0;}
+body{font-family:sans-serif;background:-webkit-linear-gradient(-45deg, #000000 0%,#000000 10%,#F5DE39 10%,#F5DE39 20%,#000000 20%,#000000 30%,#F5DE39 30%,#F5DE39 40%,#000000 40%,#000000 50%,#F5DE39 50%,#F5DE39 60%,#000000 60%,#000000 70%,#F5DE39 70%,#F5DE39 80%,#000000 80%,#000000 90%,#F5DE39 90%,#F5DE39 100%);}
+h1{font-size:150%;}
+nav{min-height:500px;}
+ul{list-style:none;}
+ul li{line-height:120%;display:block;width:33%;float:left;}
+li a[href^=htt]{font-size:80%;font-weight:400;}
+li a[href^=htt]:before{content:"by";}
+header h1,header nav,article,footer{border:10px solid #000;border-radius:20px;background:rgba(255,255,255,0.75);margin-bottom:25px;padding:15px;}
+article{clear:both;padding-top:20px;}
+h2,code{font-size:120%;}
+ol li{list-style-position:inside;}
+footer{line-height:90%;font-size:90%;padding:5px 15px;}
+a{color:#000;font-weight:700;font-style:italic;}
+a:hover{text-decoration:none;font-style:normal;}
+b{font-weight:400;}
+cite{font-style:inherit;}
